@@ -2,5 +2,10 @@ new line
 line from terminal
 line from github
 Git is awesome.
+<<<<<<< HEAD
 Third line
 Line to branch
+=======
+Forth line
+after stash
+>>>>>>> 005f4853fcdad8d011091882eb2d3477fa41c216
